@@ -105,6 +105,11 @@ const Header = () => {
 
                                 </NavLink>
 
+                                {
+                                    user?.displayName &&
+                                    <img src={user?.photoURL} className='rounded-circle ms-2' alt="" srcset="" height='50px' />
+                                }
+
 
                                 <div className='mx-3 usecolor mt-2'>
                                     {user?.displayName || <div>
