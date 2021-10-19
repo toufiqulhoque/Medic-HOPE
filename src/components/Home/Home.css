@@ -1,0 +1,30 @@
+.bannar-btn{
+    background-color:#76D5CB ;
+    border-color: #76D5CB;
+    color:#76D5CB ;
+    position: absolute;
+    top: 55%;
+    left: 65%;
+    padding: 15px;
+
+
+}
+.bannar-btn:hover{
+    color: white;
+    background-color: #76D5CB;
+}
+.bannar-text{
+    position: absolute;
+    top:40%;
+    left: 55%;
+
+}
+
+@media screen and (max-width: 900px) and (min-width: 300px){
+    .bannar-btn {
+       display: none;
+    }
+    .bannar-text{
+        display: none;
+    }
+  }

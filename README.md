@@ -1,3 +1,19 @@
+# Hospital Info
+
+You can get all type of detail information from this site.
+
+## Website links
+Click Site :[Live Site](https://hope-medical-d7ae0.web.app/home)
+![Click here](https://i.imgur.com/dkiP6J2.png)
+
+## functionalities
+
+* Super interactive and easy to use website
+* You can get all the doctors detail 
+* You will know all the facilities   
+* We have Login/Registration system for our patient.To get more extra information
+* You will also get Digital Health Care support buy using mobile
+ 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

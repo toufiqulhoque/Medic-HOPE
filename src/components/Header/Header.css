@@ -1,0 +1,32 @@
+.nav-text-style{
+    color: #76D5CB;
+    margin-top: 10px;
+    font-weight: 600;
+    
+}
+.nav-text-style:hover{
+    color: black;
+}
+.mini-background{
+    background-color: #252525;
+    color: #C5C5C5;
+}
+.mini-background:hover{
+    color: white;
+}
+.header-btn{
+    border-color: #76D5CB;
+    color:#76D5CB ;
+}
+.header-btn:hover{
+    color: white;
+    background-color: #76D5CB;
+    
+}
+
+.usecolor{
+    color: #76D5CB;
+    font-weight: 700;
+   
+
+}

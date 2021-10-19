@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "name": "Otho Grabeham",
+        "mail": "ograbeham0@infoseek.co.jp",
+        "image": "https://i.ibb.co/jTpW3qG/portrait-friendly-male-doctor-dressed-uniform-171337-105.jpg",
+        "gender": "Male",
+        "fees": 110,
+        "category": "Medical Oncology",
+        "schedule": "Monday-Saturday after 4pm",
+        "detail": "The research we perform at the Department of Medical Oncology is aimed at establishing individualized treatments of patients with solid tumors that are highly effective. "
+    },
+    {
+        "id": 2,
+        "name": "Estelle McCaw",
+        "mail": "emccaw1@comsenz.com",
+        "image": "https://i.ibb.co/GtH2c5m/portrait-smiling-handsome-male-doctor-man-171337-5055.jpg",
+        "gender": "Male",
+        "fees": 150,
+        "category": "Hematology",
+        "schedule": "Monday-Sunday after 6pm",
+        "detail": "Fundamental, translational and applied research into normal and malignant hematopoiesis, stem cell transplantation, developmental diagnostics and therapeutics, and hemostasis and thrombosis."
+    },
+    {
+        "id": 3,
+        "name": "Rosanna Temblett",
+        "mail": "rtemblett2@abc.net.au",
+        "image": "https://i.ibb.co/rk9LYnv/medical-workers-healthcare-covid-19-vaccination-concept-surprised-excited-female-nurse-doctor-blue-s.jpg",
+        "gender": "Female",
+        "fees": 180,
+        "category": "Developmental Biology",
+        "schedule": "Monday-Friday after 3pm",
+        "detail": "The Department Development Biology performs basic research and is involved in several teaching and training programs,epidemiological and public health research and practice."
+    },
+    {
+        "id": 4,
+        "name": "Dosi Zini",
+        "mail": "dzini3@nytimes.com",
+        "image": "https://i.ibb.co/1Rh0YB0/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-postur.jpg",
+        "gender": "Female",
+        "fees": 214,
+        "category": "Dermatology",
+        "schedule": "Monday-Saturday after 7pm",
+        "detail": "Our mission is to perform clinically relevant research. We aim to improve the diagnosis, treatment and outcome of patients with dermatological conditions. Our research includes clinical, epidemiological, cost-effectiveness, qualitative and translational research to detect conditions at early stages, improve treatment and prognosis, and change public health policies."
+    },
+    {
+        "id": 5,
+        "name": "Daveta Billam",
+        "mail": "dbillam4@sakura.ne.jp",
+        "image": "https://i.ibb.co/C1fk60Z/portrait-smiling-male-doctor-171337-1532.jpg",
+        "gender": "Male",
+        "fees": 225,
+        "category": "Clinical genetics",
+        "schedule": "Monday-Wednesday after 5pm",
+        "detail": "Distinguishes fundamental research to understand the mechanisms which cause hereditary diseases, translational research for a translation of knowledge and renewing technology."
+    },
+    {
+        "id": 6,
+        "name": "Brett Bartolommeo",
+        "mail": "bbartolommeo5@e-recht24.de",
+        "image": "https://i.ibb.co/NSkcgmn/portrait-doctor-144627-39391.jpg",
+        "gender": "Female",
+        "fees": 126,
+        "category": "Cell Biology",
+        "schedule": "Monday-Saturday after 6pm",
+        "detail": "Research in the area of molecular mechanisms that regulate development, differentiation and disease,epidemiological and public health research and practice."
+    },
+    {
+        "id": 7,
+        "name": "Julio Cunnane",
+        "mail": "jcunnane6@pen.io",
+        "image": "https://i.ibb.co/sKTGv71/smiling-young-female-doctor-wearing-medical-robe-with-stethoscope-spreading-hand-isolated-green-wall.jpg",
+        "gender": "Female",
+        "fees": 177,
+        "category": "Cardiothoracic Surgery",
+        "schedule": "Monday-Friday after 9pm",
+        "detail": "The department of Cardiothoracic Surgery provides expertise in treatment , training and research of both congenital and acquired cardiovascular and pulmonary-thoracic disease, in adults as well as children."
+    },
+    {
+        "id": 8,
+        "name": "Richardo Curnick",
+        "mail": "rcurnick7@google.fr",
+        "image": "https://i.ibb.co/HNSzD6X/young-confident-lady-doctor-medical-gown-looking-171337-5773.jpg ",
+        "gender": "Female",
+        "fees": 128,
+        "category": "Cardiology",
+        "schedule": "Monday-Thursday after 4pm",
+        "detail": "The department is involved in teaching, research and treatment of cardiovascular diseases with 5 focus areas: ischemic cardiovascular disease, congenital or acquired structural heart defects, arrhythmias and heart failure."
+    },
+    {
+        "id": 9,
+        "name": "Elton McTrustram",
+        "mail": "emctrustram8@cbsnews.com",
+        "image": "https://i.ibb.co/xHGB2hK/smiling-asian-male-doctor-pointing-upwards-1262-18321.jpg",
+        "gender": "Male",
+        "fees": 129,
+        "category": "Biostatistics",
+        "schedule": "Monday-Saturday after 6pm",
+        "detail": "The department of Biostatistics develops novel statistical models and procedures that are motivated and applied in clinical, epidemiological and public health research and practice."
+    },
+    {
+        "id": 10,
+        "name": "Missy Diviny",
+        "mail": "mdiviny9@google.es",
+        "image": "https://i.ibb.co/bWTVmWf/doctor-standing-with-folder-stethoscope-1291-16.jpg",
+        "gender": "Male",
+        "fees": 180,
+        "category": "Biochemistry",
+        "schedule": "Monday-Friday after 5pm",
+        "detail": "Our main focus is to understand the molecular mechanisms of gene regulation that underpin development and disease."
+    },
+    {
+        "id": 11,
+        "name": "Parnell Paliser",
+        "mail": "ppalisera@pinterest.com",
+        "image": "https://i.ibb.co/bKr8QXr/happy-young-male-doctor-using-tablet-computer-1262-18254.jpg",
+        "gender": "Male",
+        "fees": 110,
+        "category": "Allergology, Internal Medicine",
+        "schedule": "Monday-Saturday after 4pm",
+        "detail": "The department covers the full range of experimental and clinical activities. The research is guided by the clinical outlines of the Erasmus MC such as Experimental Anesthesia, Perioperative care, Pain medicine and Pediatric and obstetric anesthesia"
+    },
+    {
+        "id": 12,
+        "name": "Demeter Rippingall",
+        "mail": "drippingallb@rakuten.co.jp",
+        "image": "https://i.ibb.co/2dFjjrJ/front-view-female-doctor-with-analysis-stethoscope-yellow-wall-179666-23072.jpg",
+        "gender": "Female",
+        "fees": 120,
+        "category": "Anesthesiology",
+        "schedule": "Monday-Friday after 8pm",
+        "detail": "The department has as aim to improve the care (diagnosis and treatment) in patients with complex atopic disorders, work-related allergies, mastocytosis, treatment resistant urticarial/angioedema, drug allergy and severe allergic patients receiving immunotherapy. This is done with internal and external national and international collaborators."
+    }
+]
