@@ -3,7 +3,7 @@
 You can get all type of medical detail information from this site.
 
 ## Website links
-Click Site :[Live Site](https://hope-medical-d7ae0.web.app/home)
+Click Site :[Live Site](https://hope-medical-d7ae0.web.app/)
 ![Click here](https://i.imgur.com/dkiP6J2.png)
 
 ## functionalities
