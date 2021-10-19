@@ -16,7 +16,7 @@ const AboutUs = () => {
                     <Col xs={12}>
                         <div >
                             <h2 className='my-5'>The story</h2>
-                            <p className='about-p' >Mayo Clinic has major campuses in Rochester, Minn.; Scottsdale and Phoenix, Ariz.; and Jacksonville, Fla. The Mayo Clinic Health System has dozens of locations in several states. Thousands of patients from around the world travel to Mayo Clinic locations, and Mayo Clinic's International Patient Offices help ensure that distance and language are not obstacles to receiving world-class care.</p>
+                            <p className='about-p' >Hope has major campuses in Rochester, Minn.; Scottsdale and Phoenix, Ariz.; and Jacksonville, Fla. The Hope Health System has dozens of locations in several states. Thousands of patients from around the world travel to Hope locations, and Hope's International Patient Offices help ensure that distance and language are not obstacles to receiving world-class care.</p>
                         </div>
                     </Col>
 
